@@ -9,4 +9,3 @@ pub const UCICommand = enum {
     ponderhit,
     quit,
 };
-pub const DebugMode = enum { on, off };
